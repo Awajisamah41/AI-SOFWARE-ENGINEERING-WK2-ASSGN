@@ -1,0 +1,10 @@
+{
+  "precip_mm_growing": 250,
+  "mean_temp_growing": 24.3,
+  "fertilizer_kg_ha": 100,
+  "prev_yield": 2.1,
+  "planting_day_of_year": 120,
+  "soil_clay": 0,
+  "soil_sandy": 1,
+  "soil_unknown": 0
+}

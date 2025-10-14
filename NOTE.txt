@@ -1,0 +1,6 @@
+Notes on data merging (FAOSTAT + Climate)
+-------------------------------------------
+1. FAOSTAT provides country-year crop yield and production data. Use 'Area harvested' and 'Yield' columns.
+2. Align climate data (World Bank, CRU, or NOAA station aggregated) by country and year or by coordinates.
+3. Aggregate climate into growing-season windows (planting->harvest) -- cumulative precipitation, mean temp.
+4. Ensure consistent country identifiers (ISO3) to merge datasets reliably.
